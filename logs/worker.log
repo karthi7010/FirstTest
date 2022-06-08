@@ -1,0 +1,69 @@
+11:34:22 Worker rq:worker:f284449cffd244bea35708d2b90ed02b.karthik-ThinkPad-E14-Gen-2.33604.home-karthik-project_bench:default: started, version 1.8.1
+11:34:22 Subscribing to channel rq:pubsub:f284449cffd244bea35708d2b90ed02b.karthik-ThinkPad-E14-Gen-2.33604.home-karthik-project_bench:default
+11:34:22 *** Listening on home-karthik-project_bench:default...
+11:34:22 Cleaning registries for queue: home-karthik-project_bench:default
+11:34:22 Worker rq:worker:e935c6e80dc0464cb94eb728980cdc53.karthik-ThinkPad-E14-Gen-2.33602.home-karthik-project_bench:long: started, version 1.8.1
+11:34:22 Subscribing to channel rq:pubsub:e935c6e80dc0464cb94eb728980cdc53.karthik-ThinkPad-E14-Gen-2.33602.home-karthik-project_bench:long
+11:34:22 *** Listening on home-karthik-project_bench:long...
+11:34:22 Cleaning registries for queue: home-karthik-project_bench:long
+11:34:22 Worker rq:worker:a8511b46f46647d4ab3bc5419004beda.karthik-ThinkPad-E14-Gen-2.33600.home-karthik-project_bench:short: started, version 1.8.1
+11:34:22 Subscribing to channel rq:pubsub:a8511b46f46647d4ab3bc5419004beda.karthik-ThinkPad-E14-Gen-2.33600.home-karthik-project_bench:short
+11:34:22 *** Listening on home-karthik-project_bench:short...
+11:34:22 Cleaning registries for queue: home-karthik-project_bench:short
+11:36:17 Warm shut down requested
+11:36:17 Warm shut down requested
+11:36:17 Unsubscribing from channel rq:pubsub:a8511b46f46647d4ab3bc5419004beda.karthik-ThinkPad-E14-Gen-2.33600.home-karthik-project_bench:short
+11:36:17 Unsubscribing from channel rq:pubsub:e935c6e80dc0464cb94eb728980cdc53.karthik-ThinkPad-E14-Gen-2.33602.home-karthik-project_bench:long
+11:36:17 Warm shut down requested
+11:36:17 Unsubscribing from channel rq:pubsub:f284449cffd244bea35708d2b90ed02b.karthik-ThinkPad-E14-Gen-2.33604.home-karthik-project_bench:default
+11:39:17 Worker rq:worker:fa97277e543f4a15911fa34078b44352.karthik-ThinkPad-E14-Gen-2.34077.home-karthik-project_bench:long: started, version 1.8.1
+11:39:17 Subscribing to channel rq:pubsub:fa97277e543f4a15911fa34078b44352.karthik-ThinkPad-E14-Gen-2.34077.home-karthik-project_bench:long
+11:39:17 *** Listening on home-karthik-project_bench:long...
+11:39:17 Cleaning registries for queue: home-karthik-project_bench:long
+11:39:17 Worker rq:worker:eb4dfb8d300046ae8554d4dfcdcf042d.karthik-ThinkPad-E14-Gen-2.34075.home-karthik-project_bench:short: started, version 1.8.1
+11:39:17 Subscribing to channel rq:pubsub:eb4dfb8d300046ae8554d4dfcdcf042d.karthik-ThinkPad-E14-Gen-2.34075.home-karthik-project_bench:short
+11:39:17 *** Listening on home-karthik-project_bench:short...
+11:39:17 Cleaning registries for queue: home-karthik-project_bench:short
+11:39:17 Worker rq:worker:3d2abfa1052445e3b8e7829a6b5df84a.karthik-ThinkPad-E14-Gen-2.34080.home-karthik-project_bench:default: started, version 1.8.1
+11:39:17 Subscribing to channel rq:pubsub:3d2abfa1052445e3b8e7829a6b5df84a.karthik-ThinkPad-E14-Gen-2.34080.home-karthik-project_bench:default
+11:39:17 *** Listening on home-karthik-project_bench:default...
+11:39:17 Cleaning registries for queue: home-karthik-project_bench:default
+11:39:46 Warm shut down requested
+11:39:46 Warm shut down requested
+11:39:46 Unsubscribing from channel rq:pubsub:fa97277e543f4a15911fa34078b44352.karthik-ThinkPad-E14-Gen-2.34077.home-karthik-project_bench:long
+11:39:46 Unsubscribing from channel rq:pubsub:eb4dfb8d300046ae8554d4dfcdcf042d.karthik-ThinkPad-E14-Gen-2.34075.home-karthik-project_bench:short
+11:39:46 Warm shut down requested
+11:39:46 Unsubscribing from channel rq:pubsub:3d2abfa1052445e3b8e7829a6b5df84a.karthik-ThinkPad-E14-Gen-2.34080.home-karthik-project_bench:default
+11:59:36 Worker rq:worker:e781454878774bc0a62ad746e48f77f2.karthik-ThinkPad-E14-Gen-2.35871.home-karthik-project_bench:short: started, version 1.8.1
+11:59:36 Subscribing to channel rq:pubsub:e781454878774bc0a62ad746e48f77f2.karthik-ThinkPad-E14-Gen-2.35871.home-karthik-project_bench:short
+11:59:36 *** Listening on home-karthik-project_bench:short...
+11:59:36 Cleaning registries for queue: home-karthik-project_bench:short
+11:59:36 Worker rq:worker:d7eab828a71d4bfa991401207115707a.karthik-ThinkPad-E14-Gen-2.35878.home-karthik-project_bench:default: started, version 1.8.1
+11:59:36 Subscribing to channel rq:pubsub:d7eab828a71d4bfa991401207115707a.karthik-ThinkPad-E14-Gen-2.35878.home-karthik-project_bench:default
+11:59:36 *** Listening on home-karthik-project_bench:default...
+11:59:36 Cleaning registries for queue: home-karthik-project_bench:default
+11:59:36 Worker rq:worker:7ba5ccd56df149adaa103aa6f05713de.karthik-ThinkPad-E14-Gen-2.35876.home-karthik-project_bench:long: started, version 1.8.1
+11:59:36 Subscribing to channel rq:pubsub:7ba5ccd56df149adaa103aa6f05713de.karthik-ThinkPad-E14-Gen-2.35876.home-karthik-project_bench:long
+11:59:36 *** Listening on home-karthik-project_bench:long...
+11:59:36 Cleaning registries for queue: home-karthik-project_bench:long
+12:00:25 Warm shut down requested
+12:00:25 Warm shut down requested
+12:00:25 Unsubscribing from channel rq:pubsub:7ba5ccd56df149adaa103aa6f05713de.karthik-ThinkPad-E14-Gen-2.35876.home-karthik-project_bench:long
+12:00:25 Unsubscribing from channel rq:pubsub:d7eab828a71d4bfa991401207115707a.karthik-ThinkPad-E14-Gen-2.35878.home-karthik-project_bench:default
+12:00:25 Warm shut down requested
+12:00:25 Unsubscribing from channel rq:pubsub:e781454878774bc0a62ad746e48f77f2.karthik-ThinkPad-E14-Gen-2.35871.home-karthik-project_bench:short
+12:04:30 Worker rq:worker:4857603365174488933ae75fb32f6797.karthik-ThinkPad-E14-Gen-2.36487.home-karthik-project_bench:default: started, version 1.8.1
+12:04:30 Subscribing to channel rq:pubsub:4857603365174488933ae75fb32f6797.karthik-ThinkPad-E14-Gen-2.36487.home-karthik-project_bench:default
+12:04:30 *** Listening on home-karthik-project_bench:default...
+12:04:30 Cleaning registries for queue: home-karthik-project_bench:default
+12:04:31 Worker rq:worker:00aacd99cc074667950ff82561e3790c.karthik-ThinkPad-E14-Gen-2.36480.home-karthik-project_bench:long: started, version 1.8.1
+12:04:31 Subscribing to channel rq:pubsub:00aacd99cc074667950ff82561e3790c.karthik-ThinkPad-E14-Gen-2.36480.home-karthik-project_bench:long
+12:04:31 *** Listening on home-karthik-project_bench:long...
+12:04:31 Cleaning registries for queue: home-karthik-project_bench:long
+12:04:31 Worker rq:worker:2fad40eaa7e64477b3b54ae1bca80fb2.karthik-ThinkPad-E14-Gen-2.36484.home-karthik-project_bench:short: started, version 1.8.1
+12:04:31 Subscribing to channel rq:pubsub:2fad40eaa7e64477b3b54ae1bca80fb2.karthik-ThinkPad-E14-Gen-2.36484.home-karthik-project_bench:short
+12:04:31 *** Listening on home-karthik-project_bench:short...
+12:04:31 Cleaning registries for queue: home-karthik-project_bench:short
+12:07:58 Warm shut down requested
+12:07:58 Warm shut down requested
+12:07:58 Warm shut down requested

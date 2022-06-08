@@ -1,0 +1,6 @@
+mysqldump --single-transaction --quick --lock-tables=false -u _4b85fa5fb1d6b1f9 -p********** _4b85fa5fb1d6b1f9 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./mithra.com/private/backups/20220608_120001-mithra_com-database.sql.gz
+
+Backup Summary for mithra.com at 2022-06-08 12:00:02.027226
+Config  : ./mithra.com/private/backups/20220608_120001-mithra_com-site_config_backup.json 94.0B
+Database: ./mithra.com/private/backups/20220608_120001-mithra_com-database.sql.gz         253.9KiB
+Backup for Site mithra.com has been successfully completed
